@@ -1,32 +1,34 @@
-[
-  {
-    "id": "shop0",
-    "title": "あいうえお本舗",
-    "description": "お店の説明文が入ります。お店の説明文が入ります。お店の説明文が入ります。",
-    "url": "https://google.com"
-  },
-  {
-    "id": "shopA1",
-    "title": "あいうえお本舗A",
-    "description": "お店の説明文が入ります。お店の説明文が入ります。お店の説明文が入ります。",
-    "url": "https://google.com"
-  },
-  {
-    "id": "shopB2",
-    "title": "あいうえお本舗B",
-    "description": "お店の説明文が入ります。お店の説明文が入ります。お店の説明文が入ります。",
-    "url": "https://google.com"
-  },
-  {
-    "id": "shopC3",
-    "title": "あいうえお本舗C",
-    "description": "お店の説明文が入ります。お店の説明文が入ります。お店の説明文が入ります。",
-    "url": "https://google.com"
-  },
-  {
-    "id": "shopD4",
-    "title": "あいうえお本舗D",
-    "description": "お店の説明文が入ります。お店の説明文が入ります。お店の説明文が入ります。",
-    "url": "https://google.com"
-  }
-]
+{
+  "shops": [
+    {
+      "id": "shop0",
+      "title": "あいうえお本舗",
+      "description": "お店の説明文が入ります。お店の説明文が入ります。お店の説明文が入ります。",
+      "url": "https://google.com"
+    },
+    {
+      "id": "shopA1",
+      "title": "あいうえお本舗A",
+      "description": "お店の説明文が入ります。お店の説明文が入ります。お店の説明文が入ります。",
+      "url": "https://google.com"
+    },
+    {
+      "id": "shopB2",
+      "title": "あいうえお本舗B",
+      "description": "お店の説明文が入ります。お店の説明文が入ります。お店の説明文が入ります。",
+      "url": "https://google.com"
+    },
+    {
+      "id": "shopC3",
+      "title": "あいうえお本舗C",
+      "description": "お店の説明文が入ります。お店の説明文が入ります。お店の説明文が入ります。",
+      "url": "https://google.com"
+    },
+    {
+      "id": "shopD4",
+      "title": "あいうえお本舗D",
+      "description": "お店の説明文が入ります。お店の説明文が入ります。お店の説明文が入ります。",
+      "url": "https://google.com"
+    }
+  ]  
+}
