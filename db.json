@@ -29,6 +29,12 @@
       "title": "あいうえお本舗D",
       "description": "お店の説明文が入ります。お店の説明文が入ります。お店の説明文が入ります。",
       "url": "https://google.com"
+    },
+    {
+      "id": "shopD5",
+      "title": "あいうえお本舗E",
+      "description": "お店の説明文が入ります。お店の説明文が入ります。お店の説明文が入ります。",
+      "url": "https://google.com"
     }
   ]  
 }
